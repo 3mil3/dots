@@ -1,5 +1,4 @@
 <div align="center">
-    <h1>✨Tue Nhan's Dot Files✨</h1>
     <h3>A place where I store all of my own customization </h3>
 </div>
 
